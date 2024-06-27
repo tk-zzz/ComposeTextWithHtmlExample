@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ComposeTextWithHtmlExample</string>
+    <string name="tagged_text"><a href="https://reality.app"> REALITY </a> へようこそ！！！！！！<br/><font color="RED">123456</font><big>7890</big>1234567890</string>
+    <string name="tagged_text_with_escape">&lt;a href="https://reality.app"> REALITY &lt;/a> へようこそ！！！！！！&lt;br>123456&lt;big>&lt;font color="RED">7890&lt;/font>&lt;/big>1234567890</string>
 </resources>
